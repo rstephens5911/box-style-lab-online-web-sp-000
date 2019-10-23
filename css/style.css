@@ -46,6 +46,14 @@ h4 {
   background-color: #dddd22;
 }
 
+h4.indifferent {
+  background: linear-gradient(
+    to right,
+    #118833,
+    #66ee88
+    );
+}
+
 .dubious {
   box-sizing: border-box;
   border: 1px solid #990000;
