@@ -63,6 +63,14 @@ h4.indifferent {
     );
 }
 
+h4.indifferent:hover {
+  background: linear-gradient(
+    to right,
+    #FFF600,
+    #AF7900
+    );
+}
+
 .dubious {
   box-sizing: border-box;
   border: 1px solid #990000;
