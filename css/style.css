@@ -86,6 +86,14 @@ h4.dubious {
     );
 }
 
+h4.dubious:hover {
+  background: linear-gradient(
+    to right,
+    #FF0000,
+    #860000
+    );
+}
+
 .column {
   width: 30%;
   display: inline-block;
