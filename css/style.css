@@ -39,6 +39,15 @@ h4 {
      );
  }
 
+ 
+h4.amiable:hover {
+  background: linear-gradient(
+    to right,
+    #66ee88,
+    #118833
+  );
+}
+
 .indifferent {
   box-sizing: border-box;
   border: 1px solid #E7BA00;
