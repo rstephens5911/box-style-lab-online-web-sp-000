@@ -61,6 +61,14 @@ h4.indifferent {
   background-color: #dd4444;
 }
 
+h4.dubious {
+  background: linear-gradient(
+    to right,
+    #AF7900,
+    #FFF600
+    );
+}
+
 .column {
   width: 30%;
   display: inline-block;
